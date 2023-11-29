@@ -16,7 +16,7 @@
   
 ## Frameworks
 ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytorch
- <br><i>( Code and other steps to recreate would be added later)
+ <br><i>( Code and other steps to recreate would be added later)</i>
 
  ## Sample Results
  
