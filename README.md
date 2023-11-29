@@ -14,7 +14,7 @@
 * Step 6: The robot will move to the collection center located at a pre-defined position
 * STep 7: The whole process repeats.
   
-## 
-* Frameworks : ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytorch
+## Frameworks
+ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytorch
  <br><i>( Code and other steps to recreate would be added later)
 
