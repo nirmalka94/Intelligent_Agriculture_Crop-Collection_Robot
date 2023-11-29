@@ -3,7 +3,8 @@
 ## Summary
 * The demo uses ROS1, Google Media Pipe with a custom LSTM based NN to perform crop collection in agriculture fields.
 * The implemented demo has multiple elemnets from both robotics and AI.
-* Original work done in free time
+* Original work done in free time.
+* The LSTM model for action recognition ( Picking  Fruit / Not Picking)  was trained on custom dataset created using real footage from agtocutural fields( private dataset) and preprocessing it with yolo and media pipe.
 
 ## Demo Concept
 * Step 1: Pickers of a fruit/ vegeitable would pick the items and collect them in small handheld containers.
@@ -13,10 +14,14 @@
 * Step 5: The robot will move to other pickers and repeat the same untill the carriage is full.
 * Step 6: The robot will move to the collection center located at a pre-defined position
 * STep 7: The whole process repeats.
+
+## Architecture
+![architecture]([http://url/to/img.png](https://github.com/nirmalka94/Intelligent_Agriculture_Crop-Collection_Robot/blob/main/images/drawings_robotics.png))
   
 ## Frameworks
 ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytorch
  <br><i>( Code and other steps to recreate would be added later)</i>
+ 
 
  ## Sample Results
  
