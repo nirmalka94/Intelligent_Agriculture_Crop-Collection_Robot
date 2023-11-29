@@ -16,8 +16,9 @@
 * STep 7: The whole process repeats.
 
 ## Architecture
-![architecture]([http://url/to/img.png](https://github.com/nirmalka94/Intelligent_Agriculture_Crop-Collection_Robot/blob/main/images/drawings_robotics.png))
-  
+
+  ![drawings_robotics](https://github.com/nirmalka94/Intelligent_Agriculture_Crop-Collection_Robot/assets/111562774/db8389fb-3f1a-4b89-8819-2aa7ed05c964)
+
 ## Frameworks
 ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytorch
  <br><i>( Code and other steps to recreate would be added later)</i>
