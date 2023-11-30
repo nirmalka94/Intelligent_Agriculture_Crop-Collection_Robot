@@ -25,5 +25,5 @@ ROS Noetic, Gazebo (Clearpath Husky Simulator), Yolo V5, Gopgle Mediapipe, Pytor
  
 
  ## Sample Results
- find the demo video here: ![DEMO](https://youtu.be/7H6ioa3TKTQ )
+ find the demo video here: [DEMO](https://youtu.be/7H6ioa3TKTQ )
 
